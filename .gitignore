@@ -1,1 +1,7 @@
-.docx
+# OS files
+.DS_Store
+Thumbs.db
+
+# Word documents
+*.doc
+*.docx
