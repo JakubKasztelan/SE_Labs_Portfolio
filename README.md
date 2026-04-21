@@ -18,6 +18,7 @@ The primary project in this repository is a tool designed to enable non-technica
 
 Detailed project specification can be found in the **SRS/** folder.
 
-
-
+</br>
+</br>
+</br>
 <img width="auto" height="80" alt="logo" src="https://github.com/user-attachments/assets/29ca97da-a4b5-4471-b3c0-62ab1e09baba" />
