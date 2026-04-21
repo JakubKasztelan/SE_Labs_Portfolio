@@ -16,4 +16,4 @@ The primary project in this repository is a tool designed to enable non-technica
 * **Security Scoring**: Translating technical weaknesses into a user-friendly 0-100 score.
 * **Technical Reporting**: Generating PDF summaries for professional review.
 
-Detailed project specification can be found in the /SRS folder.
+Detailed project specification can be found in the **SRS/** folder.
